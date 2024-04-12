@@ -1,3 +1,2 @@
-os
 google-generativai
 streamlit
