@@ -1,0 +1,3 @@
+os
+google-generativai
+streamlit
